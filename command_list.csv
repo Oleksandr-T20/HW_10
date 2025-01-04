@@ -1,4 +1,4 @@
-    1   git config --global user.name "Oleksandr Tupychka"
+    1  git config --global user.name "Oleksandr Tupychka"
     2  git config --global user.email tupichka1999@gmail.com
     3  git clone https://github.com/Oleksandr-T20/HW_10.git
     4  cd 'HW_10'
